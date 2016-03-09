@@ -1,0 +1,58 @@
+[12-Feb-2015 22:05:17] PHP Warning:  include_once(analyticstracking.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home8/perfecco/public_html/terrarooms/images/index.php on line 37
+[12-Feb-2015 22:05:17] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home8/perfecco/public_html/terrarooms/images/index.php on line 37
+[12-Feb-2015 22:05:17] PHP Warning:  require_once(connectvars.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home8/perfecco/public_html/terrarooms/images/index.php on line 40
+[12-Feb-2015 22:05:17] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'connectvars.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home8/perfecco/public_html/terrarooms/images/index.php on line 40
+[12-Feb-2015 22:35:27] PHP Warning:  include_once(analyticstracking.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home8/perfecco/public_html/terrarooms/images/index.php on line 37
+[12-Feb-2015 22:35:27] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home8/perfecco/public_html/terrarooms/images/index.php on line 37
+[12-Feb-2015 22:35:27] PHP Warning:  require_once(connectvars.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home8/perfecco/public_html/terrarooms/images/index.php on line 40
+[12-Feb-2015 22:35:27] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'connectvars.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home8/perfecco/public_html/terrarooms/images/index.php on line 40
+[12-Feb-2015 22:37:58] PHP Warning:  include_once(analyticstracking.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home8/perfecco/public_html/terrarooms/images/index.php on line 37
+[12-Feb-2015 22:37:58] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home8/perfecco/public_html/terrarooms/images/index.php on line 37
+[12-Feb-2015 22:37:58] PHP Warning:  require_once(connectvars.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home8/perfecco/public_html/terrarooms/images/index.php on line 40
+[12-Feb-2015 22:37:58] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'connectvars.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home8/perfecco/public_html/terrarooms/images/index.php on line 40
+[12-Feb-2015 22:38:34] PHP Warning:  include_once(analyticstracking.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home8/perfecco/public_html/terrarooms/images/index.php on line 37
+[12-Feb-2015 22:38:34] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home8/perfecco/public_html/terrarooms/images/index.php on line 37
+[12-Feb-2015 22:38:34] PHP Warning:  require_once(connectvars.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home8/perfecco/public_html/terrarooms/images/index.php on line 40
+[12-Feb-2015 22:38:34] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'connectvars.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home8/perfecco/public_html/terrarooms/images/index.php on line 40
+[12-Feb-2015 22:38:55] PHP Warning:  include_once(analyticstracking.php) [<a href='function.include-once'>function.include-once</a>]: failed to open stream: No such file or directory in /home8/perfecco/public_html/terrarooms/images/index.php on line 37
+[12-Feb-2015 22:38:55] PHP Warning:  include_once() [<a href='function.include'>function.include</a>]: Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/lib64/php:/usr/share/pear') in /home8/perfecco/public_html/terrarooms/images/index.php on line 37
+[12-Feb-2015 22:38:55] PHP Warning:  require_once(connectvars.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home8/perfecco/public_html/terrarooms/images/index.php on line 40
+[12-Feb-2015 22:38:55] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'connectvars.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home8/perfecco/public_html/terrarooms/images/index.php on line 40
+[12-Feb-2015 22:41:06] PHP Warning:  require_once(connectvars.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home8/perfecco/public_html/terrarooms/images/index.php on line 40
+[12-Feb-2015 22:41:06] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'connectvars.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home8/perfecco/public_html/terrarooms/images/index.php on line 40
+[12-Feb-2015 22:41:22] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2005): Unknown MySQL server host 'DB_HOST' (1) in /home8/perfecco/public_html/terrarooms/images/index.php on line 52
+[12-Feb-2015 22:41:22] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home8/perfecco/public_html/terrarooms/images/index.php on line 88
+[12-Feb-2015 22:41:22] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home8/perfecco/public_html/terrarooms/images/index.php on line 88
+[12-Feb-2015 22:42:33] PHP Parse error:  syntax error, unexpected T_STRING in /home8/perfecco/public_html/terrarooms/images/index.php on line 63
+[12-Feb-2015 22:42:53] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home8/perfecco/public_html/terrarooms/images/index.php on line 88
+[12-Feb-2015 22:42:53] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home8/perfecco/public_html/terrarooms/images/index.php on line 88
+[12-Feb-2015 22:43:05] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home8/perfecco/public_html/terrarooms/images/index.php on line 88
+[12-Feb-2015 22:43:05] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, null given in /home8/perfecco/public_html/terrarooms/images/index.php on line 88
+[16-Feb-2015 03:35:14 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[19-Feb-2015 02:44:06 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[19-Feb-2015 02:45:08 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[31-Mar-2015 09:42:40 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[01-Apr-2015 14:22:57 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[06-Apr-2015 10:42:09 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[06-Apr-2015 10:42:11 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[06-Apr-2015 10:42:20 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[06-Apr-2015 10:42:24 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[28-Apr-2015 12:24:09 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[28-Apr-2015 16:29:41 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[28-Apr-2015 16:29:43 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[28-Apr-2015 16:29:45 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[28-Apr-2015 16:29:47 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[10-May-2015 03:41:39 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[23-May-2015 00:26:00 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[23-May-2015 00:26:02 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[23-May-2015 00:26:04 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[23-May-2015 00:26:07 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[23-Jun-2015 18:44:46 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[23-Jun-2015 18:44:48 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[23-Jun-2015 18:44:50 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[23-Jun-2015 18:44:52 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[29-Oct-2015 04:12:59 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[31-Oct-2015 18:41:29 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[31-Oct-2015 18:41:33 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[31-Oct-2015 18:41:37 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
+[31-Oct-2015 18:41:41 America/Denver] PHP Notice:  Undefined index: flag in /home8/perfecco/public_html/terrarooms/images/index.php on line 42
